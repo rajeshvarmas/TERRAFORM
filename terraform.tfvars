@@ -1,0 +1,5 @@
+project = "<project-id>"
+region = "us-cetral1"
+zone = "us-cetral1-a"
+machine_type = "e1-micro"
+subnetwork = "<name>"
